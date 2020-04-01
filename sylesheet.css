@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    font-size: 48px;
+}
+
+p{
+    color: yellow;
+     font-family: 'Atma', cursive;
+     
+}
